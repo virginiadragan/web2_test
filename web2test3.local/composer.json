@@ -1,0 +1,13 @@
+{
+    "name": "package/test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Dragan Virginia",
+            "email": "draganvirginia98@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/valitron": "^1.4"
+    }
+}
